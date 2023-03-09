@@ -6,5 +6,6 @@
  /_/ \_\__,_\__,_|_|_|_|___/\__|_|  \_,_|\_/\___|
                                                  
 ```
+Command the powers of ADAM and program your future!
 
 Is that legal? https://www.youtube.com/watch?v=U-dmEFOT3FY
